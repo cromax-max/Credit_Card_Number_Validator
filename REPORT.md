@@ -14,10 +14,10 @@
 В процессе тестирования использовались следующие артефакты:
 * [Задача №1 - Credit Card Number Validator](https://github.com/netology-code/javaqa-homeworks/tree/master/intro#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---credit-card-number-validator)
 
-В качестве тестовых данных использовались данные: https://www.freeformatter.com
+В качестве тестовых данных использовались данные: [Credit Card Number Generator & Validator](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 * 5235807828804066 /ожидаемый результат "Result is OK"
 * 2720992154960051 /ожидаемый результат "Result is OK"
-* 5102373507172374 /ожидаемый результат "Result is OK"
+* 4664015016514532611 /ожидаемый результат "Result is OK"
 
 Тестирование производилось в следующем окружении:
 * Windows10 (64-bit);
